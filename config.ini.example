@@ -8,4 +8,4 @@ password=
 
 [postgres]
 hostname=localhost
-database=stefano
+database=emailquark
