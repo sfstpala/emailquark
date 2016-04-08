@@ -1,0 +1,11 @@
+[mailbox]
+hostname=imap.gmail.com
+label=[Gmail]/Spam
+
+[account]
+username=
+password=
+
+[postgres]
+hostname=localhost
+database=stefano
